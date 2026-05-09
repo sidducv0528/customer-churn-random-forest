@@ -97,6 +97,17 @@ jupyter notebook customer_churn_random_forest.ipynb
 
 ---
 
+
+---
+
+## 📂 Dataset Included
+
+| File | Rows | Columns | Description |
+|---|---|---|---|
+| `telco_churn_sample.csv` | 500 | 18 | Sample Telco customer churn data — ready to run! |
+
+**Full dataset:** [IBM Telco Customer Churn — Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
+
 ## 📸 Output Screenshots
 
 ![Random Forest Results](outputs/random_forest_results.png)
